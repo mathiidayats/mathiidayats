@@ -41,4 +41,3 @@ In an age of easy access and flooded information, we need clarity, insights, and
 
 ---
 
-✨ _“Turning complex climate data into meaningful insights for a sustainable future.”_
