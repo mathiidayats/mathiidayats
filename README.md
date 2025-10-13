@@ -1,5 +1,5 @@
 
-# 🌍 Hi there, I'm **Rahmat Hidayat** 👋  
+# 🌍 Hi there, I'm **Rahmat (Mayer)** 👋  
 In an age of easy access and flooded information, we need clarity, insights, and actionable data. 
 
 **My Weapons** :
