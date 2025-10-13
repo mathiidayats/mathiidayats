@@ -1,11 +1,12 @@
-# 🌍 Hi there, I'm **Rahmat Hidayat** 👋  
 
+# 🌍 Hi there, I'm **Rahmat Hidayat** 👋  
 In an age of easy access and flooded information, we need clarity, insights, and actionable data. 
 
+**My Weapons** :
 ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white)
 ![GEE](https://img.shields.io/badge/-Google%20Earth%20Engine-red?logo=googleearth&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-R%20Shiny-blue?logo=rstudio&logoColor=white)
----
+
 ### Project
 - 💻 An R Package for hydrological modeling [`ramin`](https://github.com/mathiidayats/ramin)
 - 💻 Web-based application using R-Shiny [`raminworld.com`](https://raminworld.com/)
