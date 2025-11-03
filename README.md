@@ -29,7 +29,7 @@ In an age of easy access and flooded information, we need clarity, insights, and
 ### 🧾 Publications and Seminars
 - **Hidayat, R.**, & Taufik, M. (2025). Bias Correction of CMIP6 Models for Assessment of Wet and Dry Conditions Over Sumatra. Agromet, 39(1), 33–39. https://doi.org/10.29244/j.agromet.39.1.33-39.
 - Primartono, D. Y., **Hidayat, R.**, Prasetia, R., & Taufik, M. (2025). A spatially distributed rainfall dataset for West Java, Indonesia. Data in Brief. https://doi.org/10.1016/j.dib.2025.111974.
-- **Hidayat, R.**, Apip, Dasril, A.P., & Taufik, M. (2025). Climate teleconnection triggers prolonged dry season in tropical Maritime Continent. Theoretical and Applied Climatology. (Accepted).
+- **Hidayat, R.**, Apip, Dasril, A.P., Taufik, M., 2025. Climate teleconnection triggers prolonged dry season in tropical maritime continent. Theoretical and Applied Climatology 156, 626. https://doi.org/10.1007/s00704-025-05852-x
 - **Hidayat, R**. (2025). Decision Support Tools (DST) for Flood Watershed Management in Citarum Watershed. Presented at National Seminar, Indonesia.
 
 
