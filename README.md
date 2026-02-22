@@ -17,7 +17,7 @@ In an age of easy access and flooded information, we need clarity, insights, and
 ### 📫 How to Reach Me
 - 📧 **mathiidayats@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathiidayats)
-- www.datascienceportfol.io/mathiidayats
+- [Portfolio](www.datascienceportfol.io/mathiidayats)
 - 🧾 [Google Scholar](https://scholar.google.com/citations?user=RjNIpkkAAAAJ&hl=id&authuser=2)
 
 ---
